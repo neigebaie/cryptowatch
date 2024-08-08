@@ -1,0 +1,24 @@
+.login-form input {
+  //   background-color: transparent;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.login-form {
+  background-color: white;
+  min-width: 350px;
+  padding: 20px;
+}
+
+.login-form form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 200px;
+}
+
+.form-field {
+  display: flex;
+  flex-direction: column;
+}
